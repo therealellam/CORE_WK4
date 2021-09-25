@@ -1,1 +1,1 @@
-# CORE_WK4
+We have been tasked to understand electric car usage by solving a research question. We will work as a Data Scientist for the Autolib electric car-sharing service company to investigate a claim about the blue cars from the provided Autolib dataset.
